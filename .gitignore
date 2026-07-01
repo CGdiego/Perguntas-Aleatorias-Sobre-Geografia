@@ -1,0 +1,5 @@
+# PowerPoint temporary/lock files
+~$*.ppt*
+*.tmp
+*.pptx.autosave
+*.ppt.autosave
